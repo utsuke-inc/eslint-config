@@ -25,6 +25,7 @@ module.exports = {
       {allow: ['constructors']},
     ],
     'react/prop-types': 'off',
+    'react/display-name': 'off',
     'prettier/prettier': 'error',
   },
   settings: {
